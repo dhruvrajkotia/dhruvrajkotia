@@ -8,18 +8,11 @@
 ### My Recent Blogs posts
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
-- [Create a DOWNLOAD link in a single line of HTML](https://blog.kritikapattalam.com/create-a-download-link-in-html)
-- [First Step to Learning Vue JS - 3](https://blog.kritikapattalam.com/first-step-to-learning-vue-js-3)
-- [Display random quotes from Chuck Norris API](https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api)
-- [Build a Random Quote Generator using JavaScript](https://blog.kritikapattalam.com/build-a-random-quote-generator-using-javascript)
-- [Build a Simple Clock  using JavaScript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)
-- [Do you know what "use strict" does in JavaScript ?](https://blog.kritikapattalam.com/use-strict-mode-in-javascript)
-- [Difference between delete and splice an element in an array using JavaScript](https://blog.kritikapattalam.com/difference-between-delete-and-splice-an-element-in-an-array-using-javascript)
-- [Difference between var and let in JavaScript](https://blog.kritikapattalam.com/difference-between-var-and-let-in-javascript)
-- [How to add a favicon to a website in a single line of HTML?](https://blog.kritikapattalam.com/how-to-add-a-favicon-to-a-website-in-a-single-line-of-html)
-- [Drop CAP effect / Changing the style of the first letter in a paragraph using CSS.](https://blog.kritikapattalam.com/drop-cap-effect-changing-the-style-of-the-first-letter-in-a-paragraph-using-css)
-- [Different ways to remove an element at the end of the array using JavaScript](https://blog.kritikapattalam.com/different-ways-to-remove-an-element-at-the-end-of-the-array-using-javascript)
-- [Disable Zoom on pinch in mobile using HTML tag.](https://blog.kritikapattalam.com/disable-zoom-on-pinch-in-mobile-using-html-tag)
+- [What is a difference between git pull and git fetch?](https://dev.to/dhruv_rajkotia/what-is-a-difference-between-git-pull-and-git-fetch-4iop)
+- [Difference between Dialogflow CX vs Dialogflow ES](https://dev.to/dhruv_rajkotia/difference-between-dialogflow-cx-vs-dialogflow-es-3n1k)
+- [Steps to create your own Facebook Messenger chatbot](https://dev.to/dhruv_rajkotia/steps-to-create-your-own-facebook-messenger-chatbot-1j8g)
+- [Partial Response Feature in Dialogflow CX](https://dev.to/dhruv_rajkotia/partial-response-feature-in-dialogflow-cx-39bi)
+- [Deploy NodeJS Application within 5 minutes](https://dev.to/dhruv_rajkotia/deploy-nodejs-application-within-5-minutes-2kk1)
 <!-- BLOG-POST-LIST:END -->
 
 
