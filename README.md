@@ -7,11 +7,11 @@
 
 ### My Recent Blogs posts
 <!-- DEV:START -->
+- [How to get rid of code formatting](https://dev.to/dhruv_rajkotia/how-to-get-rid-of-code-formatting-5794)
 - [Make Cloud Storage Objects Publicly Accessible](https://dev.to/dhruv_rajkotia/make-cloud-storage-objects-publicly-accessible-186o)
 - [Automation Script for the Flight Searching](https://dev.to/dhruv_rajkotia/automation-script-for-the-flight-searching-36g1)
 - [Deploy NodeJS Application within 5 minutes](https://dev.to/dhruv_rajkotia/deploy-nodejs-application-within-5-minutes-2kk1)
 - [Partial Response Feature in Dialogflow CX](https://dev.to/dhruv_rajkotia/partial-response-feature-in-dialogflow-cx-39bi)
-- [Steps to create your own Facebook Messenger chatbot](https://dev.to/dhruv_rajkotia/steps-to-create-your-own-facebook-messenger-chatbot-1j8g)
 <!-- DEV:END -->
 
 
