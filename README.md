@@ -7,11 +7,11 @@
 
 ### My Recent Blogs posts
 <!-- DEV:START -->
+- [Which Python Framework is fastest?](https://dev.to/dhruv_rajkotia/which-python-framework-is-fastest-2fgo)
 - [How to get rid of code formatting](https://dev.to/dhruv_rajkotia/how-to-get-rid-of-code-formatting-5794)
 - [Make Cloud Storage Objects Publicly Accessible](https://dev.to/dhruv_rajkotia/make-cloud-storage-objects-publicly-accessible-186o)
 - [Automation Script for the Flight Searching](https://dev.to/dhruv_rajkotia/automation-script-for-the-flight-searching-36g1)
 - [Deploy NodeJS Application within 5 minutes](https://dev.to/dhruv_rajkotia/deploy-nodejs-application-within-5-minutes-2kk1)
-- [Partial Response Feature in Dialogflow CX](https://dev.to/dhruv_rajkotia/partial-response-feature-in-dialogflow-cx-39bi)
 <!-- DEV:END -->
 
 
