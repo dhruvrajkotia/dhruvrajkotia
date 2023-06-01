@@ -1,6 +1,6 @@
 # Hi there. I am Dhruv 👋 .
 
-- 🔭 I am currently working as a Software Engineer at Quantiphi.
+- 🔭 I am currently working as a Software Engineer at Indemn.
 - 🌱 Currently learning : NodeJS, React.
 - 💬 Ask me about: Python, NodeJS, Chatbot Development, NLP tools like Dialogflow, IBM Watson, Rasa etc.
 - 📫 How to reach me: <a href="mailto:dhruvrajkotia999@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dhruv-rajkotia-442a15a9/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/10506783/dhruv-rajkotia?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
