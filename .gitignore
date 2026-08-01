@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+# never commit source photos to the public repo
+data/*.png
+data/*.jpg
+data/*.jpeg
+data/*.webp
+preview.html
