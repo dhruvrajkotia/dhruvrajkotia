@@ -16,7 +16,7 @@ STATIC = os.environ.get("STATIC") == "1"
 # --- edit these -----------------------------------------------------------
 HEADER = "dhruv@github"
 LINES = [
-    ("Role", "AI Engineer"),
+    ("Role", "AI Solution Architect"),
     ("Focus", "Conversational AI · LLM agents · RAG"),
     ("AI", "LangChain · LangGraph · OpenAI · Anthropic"),
     ("Backend", "Python · FastAPI · Node.js"),

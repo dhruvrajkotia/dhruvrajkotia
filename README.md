@@ -32,7 +32,7 @@ Hi, I'm Dhruv Rajkotia 👋 — an AI Solution Architect who designs and ships p
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhruvrajkotia&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=dhruvrajkotia&style=flat&color=blueviolet&label=Profile+views)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
