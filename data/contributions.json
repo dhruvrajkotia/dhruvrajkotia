@@ -1,10 +1,10 @@
 {
   "username": "dhruvrajkotia",
-  "fetched_at": "2026-11-26T16:58:43+00:00",
+  "fetched_at": "2026-11-27T16:44:50+00:00",
   "stats": {
-    "total": 12389,
-    "current_streak": 130,
-    "longest_streak": 130,
+    "total": 12572,
+    "current_streak": 131,
+    "longest_streak": 131,
     "best_day": {
       "date": "2026-10-29",
       "count": 224
@@ -22,7 +22,7 @@
       "2026-08": 1506,
       "2026-09": 960,
       "2026-10": 1806,
-      "2026-11": 1673
+      "2026-11": 1856
     }
   },
   "days": [
@@ -1863,13 +1863,18 @@
     },
     {
       "date": "2026-11-25",
-      "count": 60,
+      "count": 91,
       "level": 2
     },
     {
       "date": "2026-11-26",
-      "count": 21,
-      "level": 1
+      "count": 61,
+      "level": 2
+    },
+    {
+      "date": "2026-11-27",
+      "count": 112,
+      "level": 2
     }
   ]
 }
